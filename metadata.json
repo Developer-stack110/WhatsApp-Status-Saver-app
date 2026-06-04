@@ -1,0 +1,8 @@
+{
+  "name": "Status Saver 2026",
+  "description": "Save and download WhatsApp images and videos instantly. Supports Android SAF, WhatsApp Business, auto save, dynamic multi-language (English, Hindi, Gujarati, Marathi, Tamil), and direct gallery exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
